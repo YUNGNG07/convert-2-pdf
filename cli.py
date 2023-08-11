@@ -2,7 +2,7 @@
 Command line program to convert Office documents and images to PDF formats
 """
 
-from pdf_merger import word_to_pdf, excel_to_pdf, ppt_to_pdf, img_to_pdf
+from convert2pdf import word_to_pdf, excel_to_pdf, ppt_to_pdf, img_to_pdf
 import sys
 import os
 
