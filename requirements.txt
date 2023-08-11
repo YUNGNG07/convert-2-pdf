@@ -1,0 +1,3 @@
+comtypes
+img2pdf
+PyPDF2
